@@ -1,5 +1,9 @@
 # 🌆 CitySkylineProject
 
+![HTML](https://img.shields.io/badge/HTML-5-orange.svg) ![CSS](https://img.shields.io/badge/CSS-3-blue.svg) ![Responsive](https://img.shields.io/badge/Responsive-Design-green.svg)
+
+---
+
 Welcome to **CitySkylineProject** — a stylish, responsive website that brings the city skyline to life using HTML and CSS. This project simulates a cityscape view with custom-designed buildings and windows, optimized for both desktop and mobile screens.
 
 ## 🌐 Live Demo
