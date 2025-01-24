@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to **CitySkylineProject** — a stylish, responsive website that brings the city skyline to life using HTML and CSS. This project simulates a cityscape view with custom-designed buildings and windows, optimized for both desktop and mobile screens.Lahcen
+Welcome to **CitySkylineProject** — a stylish, responsive website that brings the city skyline to life using HTML and CSS. This project simulates a cityscape view with custom-designed buildings and windows, optimized for both desktop and mobile screens.
 
 ## 🌐 Live Demo
 
